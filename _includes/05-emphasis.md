@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am s __*Computer Science and Engineering*__ Student and Looking for a Job Position that suits my *skills* and *profile* Most
